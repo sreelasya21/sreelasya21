@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sreelasya21
+- 👋 Hi, I’m Sree Lasya
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning PYTHON, JAVA, STREAMLIT, SQL
 - 💞️ I’m looking to collaborate on AI related projects
